@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootWithOauth2Demo.iml" filepath="$PROJECT_DIR$/.idea/SpringBootWithOauth2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default-authorizationserver-main/default-authorizationserver.iml" filepath="$PROJECT_DIR$/default-authorizationserver-main/default-authorizationserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messages-client-main/messages-client.iml" filepath="$PROJECT_DIR$/messages-client-main/messages-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messages-resource-main/messages-resource.iml" filepath="$PROJECT_DIR$/messages-resource-main/messages-resource.iml" />
+    </modules>
+  </component>
+</project>

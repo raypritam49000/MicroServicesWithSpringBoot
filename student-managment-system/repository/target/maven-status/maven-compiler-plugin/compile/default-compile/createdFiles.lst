@@ -1,0 +1,3 @@
+com\student\managment\system\api\utils\repository\CustomStudentRepositoryImpl.class
+com\student\managment\system\api\utils\repository\StudentRepository.class
+com\student\managment\system\api\utils\repository\CustomStudentRepository.class

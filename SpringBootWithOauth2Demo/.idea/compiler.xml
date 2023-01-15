@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="default-authorizationserver" />
+        <module name="messages-client" />
+        <module name="messages-resource" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="default-authorizationserver" target="11" />
+      <module name="messages-client" target="11" />
+      <module name="messages-resource" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="default-authorizationserver" options="-parameters" />
+      <module name="messages-client" options="-parameters" />
+      <module name="messages-resource" options="-parameters" />
+    </option>
+  </component>
+</project>

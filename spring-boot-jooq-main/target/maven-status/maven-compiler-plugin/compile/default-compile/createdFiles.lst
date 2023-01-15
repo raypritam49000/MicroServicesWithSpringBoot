@@ -1,0 +1,10 @@
+com\javatechie\jooq\model\Test.class
+com\javatechie\jooq\model\Book.class
+com\javatechie\jooq\service\BookService.class
+com\javatechie\jooq\model\tables\Book.class
+com\javatechie\jooq\model\DefaultCatalog.class
+com\javatechie\jooq\model\tables\pojos\Book.class
+com\javatechie\jooq\model\Keys.class
+com\javatechie\jooq\model\tables\records\BookRecord.class
+com\javatechie\jooq\model\Tables.class
+com\javatechie\jooq\SpringBootJooqApplication.class
